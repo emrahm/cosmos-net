@@ -1,2 +1,2 @@
-# millicent-net
-client for gRPC Millicent blockchain node interface
+# cosmos-net
+Cosmos-sdk dotnet core client application to connect cosmos based blockchains.
