@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Millicent.Net.Grpc\Millicent.Net.Grpc.csproj" />
+    <ProjectReference Include="..\Millicent.Net.Crypto\Millicent.Net.Crypto.csproj" />
+  </ItemGroup>
+
+</Project>
